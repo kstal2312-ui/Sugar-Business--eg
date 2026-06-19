@@ -1,0 +1,21 @@
+{
+  "name": "Sugar Business EG",
+  "short_name": "Sugar Business",
+  "description": "وجهتك الاستثمارية الآمنة لتحقيق عوائد سنوية مضمونة في مصر",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A0A0A",
+  "theme_color": "#25C1F2",
+  "icons": [
+    {
+      "src": "https://images.unsplash.com/photo-1614850523296-d8c1af93d400?q=80&w=192&h=192&auto=format&fit=crop",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1614850523296-d8c1af93d400?q=80&w=512&h=512&auto=format&fit=crop",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
